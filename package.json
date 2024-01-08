@@ -1,0 +1,23 @@
+{
+  "name": "web3-node",
+  "version": "1.0.0",
+  "description": "nft",
+  "main": "index.js",
+  "scripts": {
+    "test": "testnft"
+  },
+  "keywords": [
+    "nft",
+    "aavegotchi",
+    "bot"
+  ],
+  "author": "david hushu.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "dotenv": "^16.3.1",
+    "punycode": "^2.3.1",
+    "web3": "^4.3.0",
+    "yarn": "^1.22.21"
+  }
+}
